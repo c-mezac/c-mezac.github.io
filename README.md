@@ -1,4 +1,4 @@
-# Devoir 1 et Devoir 5 - PAge stile profil professionnel
+# Devoir 1 et Devoir 5 - Page stile profil professionnel
 
 ## Présentation
 
