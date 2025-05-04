@@ -15,10 +15,10 @@ Projet de site web simple. Il montre un format de profil professionnel avec plus
 ## Fonctionnalités
 
 - Carrousel automatique avec 4 images
-    1. ![Image 1](img1.jpg)
-    2. ![Image 2](img2.jpg)
-    3. ![Image 3](img3.jpg)
-    4. ![Image 4](img4.jpg)
+    1. ![Image 1](main/images/img1.jpg)
+    2. ![Image 2](main/images/img2.jpg)
+    3. ![Image 3](main/images/img3.jpg)
+    4. ![Image 4](main/images/img4.jpg)
 - Navigation facile entre les sections
 - Mise en page simple, propre et lisible
 - Informations de contact avec email et LinkedIn
