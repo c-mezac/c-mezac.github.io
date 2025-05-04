@@ -53,6 +53,40 @@ nav a:hover {
     background-color: #8a6847;
 }
 
+.carousel {
+    position: relative;
+    width: 78%;
+    margin: 20px auto;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.carousel-track {
+    display: flex;
+    transition: transform 0.5s ease;
+    will-change: transform;
+}
+
+.carousel img {
+    width: 50%;
+    object-fit: cover;
+}
+
+.carousel button {
+    position: absolute;
+    top: 50%;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.carousel .next {
+    right: 10px;
+}
+
 section {
     width: 75%;
     margin: 30px auto;
