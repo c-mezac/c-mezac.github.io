@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Projet de site web simple. Il montre un format de profil professionnel avec plusieurs sections remplies du contenu fictif : [À propos](index.html/about), [Services](index.html/services), [Expérience professionnelle](index.html/experience) et [Contact](index.html/contact). Il y a aussi un carrousel d’images qui change automatiquement.
+Projet de site web simple. Il montre un format de profil professionnel avec plusieurs sections remplies du contenu fictif : *À propos*, *Services*, *Expérience professionnelle* et *Contact*. Il y a aussi un carrousel d’images qui change automatiquement.
 
 > J’ai fait ce site pour un devoir à l’**UNIGE**. Le but est d'utiliser GitHub et de pratiquer HTML, CSS et Markup.
 ---
